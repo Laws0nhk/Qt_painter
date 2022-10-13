@@ -1,2 +1,2 @@
-# Qt_primary
-Qt基础
+# Qt_painter
+Qt画家基本使用
