@@ -1,2 +1,3 @@
 # Qt_painter
-Qt画家基本使用
+Qt painter的简单使用
+ 
